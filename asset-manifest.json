@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sarvesh-Portfolio/static/css/main.a68346f4.css",
+    "main.js": "/Sarvesh-Portfolio/static/js/main.43990abb.js",
+    "index.html": "/Sarvesh-Portfolio/index.html",
+    "main.a68346f4.css.map": "/Sarvesh-Portfolio/static/css/main.a68346f4.css.map",
+    "main.43990abb.js.map": "/Sarvesh-Portfolio/static/js/main.43990abb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a68346f4.css",
+    "static/js/main.43990abb.js"
+  ]
+}
