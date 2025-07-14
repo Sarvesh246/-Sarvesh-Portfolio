@@ -1,8 +1,8 @@
 # Sarvesh Jagtap - Personal Portfolio
 
-A modern, professional, and reactive portfolio website for Sarvesh Jagtap, built to showcase his skills, achievements, and personality for college applications and future opportunities. The website is built with React, Tailwind CSS, and Framer Motion, featuring a clean and minimalist design with a functional light/dark mode.
+A modern, professional, and reactive portfolio website for me, built to showcase my skills, achievements, story for college applications and future opportunities. The website is built with React, Tailwind CSS, and Framer Motion, featuring a clean and minimalist design with a functional light/dark mode.
 
-## 🚀 Features
+## Features
 
 ### Design & UX
 - **Modern & Professional**: Clean, minimalist design with a light theme and a comprehensive dark mode.
@@ -31,7 +31,7 @@ A modern, professional, and reactive portfolio website for Sarvesh Jagtap, built
 - **React Icons**: A comprehensive icon library for a clean and professional look.
 - **Intersection Observer**: Powers scroll-triggered animations for a dynamic feel as you navigate.
 
-## 🛠️ Installation
+## Installation
 
 1.  **Clone the repository**
     ```bash
@@ -71,7 +71,7 @@ src/
 └── index.css
 ```
 
-## 🎨 Customization
+## Customization
 
 ### Color Palette
 Colors are defined in `tailwind.config.js`. The key colors are:
@@ -86,7 +86,7 @@ All content is located within the `src/components/` directory. To update any sec
 1.  Place your resume file (e.g., `resume.pdf`) in the `public/` folder.
 2.  Update the file path in `src/components/Resume.js`.
 
-## 🚀 Deployment
+## Deployment
 
 The project is configured for easy deployment on platforms like Netlify or Vercel.
 
@@ -98,7 +98,7 @@ The project is configured for easy deployment on platforms like Netlify or Verce
     - **Netlify**: Connect your GitHub repository, set the build command to `npm run build`, and the publish directory to `build`.
     - **Vercel**: Install the Vercel CLI (`npm i -g vercel`), run `vercel` in the project root, and follow the prompts.
 
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
 
